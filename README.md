@@ -33,7 +33,7 @@ Eu sou mestrando em informática pela Universidade Federal do Amazonas, formado 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gscanto&show_icons=true&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gscanto&layout=compact)
 
 </a>
 
