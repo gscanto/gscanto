@@ -1,22 +1,46 @@
-## Olá 👋, meu nome é Gabriel!
-<a href='https://www.linkedin.com/in/g-sousa/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/ferukk'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
 
-Eu sou mestre em informática pela Universidade Federal do Amazonas, formado em Matemática aplicada pela Universidade Federal do Amazonas. Minha pesquisa está focada na área de segurança de sistemas, aplicando machine learning para detecção de malwares Android. Além disso, tenho grande interesse na área de dados.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
-<br/>
-<br/>
+<h1 align="center">Olá 👋, Eu sou o Gabriel!</h1>
+<h3 align="center">Pesquisador em Segurança de Sistemas e Machine Learning</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=g-sousa&label=Profile%20views&color=0e75b6&style=flat" alt="g-sousa" /> </p>
 
+- 🎓 Sou mestre em Informática pela Universidade Federal do Amazonas e formado em Matemática Aplicada.
 
-### 🔨 Linguagens e Ferramentas:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+- 🔍 Minha pesquisa está focada na **detecção de malwares Android usando Machine Learning**.
 
-<br>
+- 📈 Também tenho grande interesse na **análise de dados e segurança de sistemas**.
 
-### 🛠️ Meus Projetos
+- 🌱 Atualmente estou me aperfeiçoando em: **Data Science e AutoML**.
+
+- 💬 Pergunte-me sobre: **Python, Machine Learning, Segurança de Sistemas**.
+
+- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/g-sousa/)**
+
+- ⚡ Curiosidade: **A segurança de sistemas nunca é 100% garantida, mas estamos sempre trabalhando para chegar perto disso!**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/g-sousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-sousa" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ferukk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ferukk" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-sousa&show_icons=true&locale=en&layout=compact" alt="g-sousa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-sousa&show_icons=true&locale=en" alt="g-sousa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-sousa&" alt="g-sousa" /></p>
