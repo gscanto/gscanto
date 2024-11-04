@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
@@ -13,15 +11,13 @@
 
 - 🔍 Minha pesquisa está focada na **detecção de malwares Android usando Machine Learning**.
 
-- 📈 Também tenho grande interesse na **análise de dados e segurança de sistemas**.
+- 📈 Também trabalho no projeto **[Malware Hunter](https://github.com/Malware-Hunter)**.
 
 - 🌱 Atualmente estou me aperfeiçoando em: **Data Science e AutoML**.
 
 - 💬 Pergunte-me sobre: **Python, Machine Learning, Segurança de Sistemas**.
 
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/g-sousa/)**
-
-- ⚡ Curiosidade: **A segurança de sistemas nunca é 100% garantida, mas estamos sempre trabalhando para chegar perto disso!**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
