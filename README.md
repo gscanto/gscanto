@@ -19,16 +19,4 @@ Eu sou mestrando em informática pela Universidade Federal do Amazonas, formado 
 
 <br>
 
-
-### 📊 Github Status
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gscanto&show_icons=true&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gscanto&layout=compact)
-
-</a>
-
-<br>
-
 ### 🛠️ Meus Projetos
