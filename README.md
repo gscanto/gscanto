@@ -13,7 +13,7 @@
 
 - 📈 Também trabalho no projeto **[Malware Hunter](https://github.com/Malware-Hunter)**.
 
-- 🌱 Atualmente estou me aperfeiçoando em: **Data Science e AutoML**.
+- 🌱 Atualmente estou me aperfeiçoando em: **Data Science**.
 
 - 💬 Pergunte-me sobre: **Python, Machine Learning, Segurança de Sistemas**.
 
