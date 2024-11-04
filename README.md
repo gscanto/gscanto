@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/g-sousa/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/ferukk'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-Eu sou mestrando em informática pela Universidade Federal do Amazonas, formado em Matemática aplicada pela Universidade Federal do Amazonas. Minha pesquisa está focada na área de segurança de sistemas, aplicando machine learning para detecção de malwares Android. Além disso, tenho grande interesse na área de dados.
+Eu sou mestre em informática pela Universidade Federal do Amazonas, formado em Matemática aplicada pela Universidade Federal do Amazonas. Minha pesquisa está focada na área de segurança de sistemas, aplicando machine learning para detecção de malwares Android. Além disso, tenho grande interesse na área de dados.
 
 <br/>
 <br/>
